@@ -3,4 +3,5 @@ print("dev linia2")
 print("main linia3")
 print("main linia4")
 print("dev linia5")
+print("main linia6")
 
